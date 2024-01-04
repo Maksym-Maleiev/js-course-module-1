@@ -12,6 +12,7 @@ console.log(cost);
 // 100
 */
 
+/*
 let cost;
 const subscription = "premium";
 
@@ -27,3 +28,5 @@ if (subscription === "free") {
 
 console.log(cost);
 // 500
+*/
+
